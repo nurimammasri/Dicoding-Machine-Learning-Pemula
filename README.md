@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="/Images/scikitlearn.png"  width="270"></img>
+  <img align="center" src="/data/dicoding.jfif"  width="270"></img>
 <br>
 Dicoding Machine Learning Pemula
 </h1>
