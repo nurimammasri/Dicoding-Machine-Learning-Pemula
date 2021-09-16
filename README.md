@@ -31,7 +31,6 @@ Dicoding Machine Learning Pemula
 
 ## Open In Colab
 
-- [x] [01. Pengenalan Machine Learning.ipynb](https://colab.research.google.com/github/nurimammasri/Wooky-Machine-Learning/blob/main/01.%20%20Pengenalan%20Machine%20Learning.ipynb)
 - [x] [Latihan01-Konversi Pandas Dataframe.ipynb](https://colab.research.google.com/github/nurimammasri/Dicoding-Machine-Learning-Pemula/blob/main/Latihan01-Konversi%20Pandas%20Dataframe.ipynb)
 - [x] [Latihan02-Sklearn Train Test Split.ipynb](https://colab.research.google.com/github/nurimammasri/Dicoding-Machine-Learning-Pemula/blob/main/Latihan02-Sklearn%20Train%20Test%20Split.ipynb)
 - [x] [Latihan03-Sklearn Cross Validation Split.ipynb](https://colab.research.google.com/github/nurimammasri/Dicoding-Machine-Learning-Pemula/blob/main/Latihan03-Sklearn%20Cross%20Validation%20Split.ipynb)
